@@ -1,0 +1,1 @@
+{"modulePrefix":"dekini-web","environment":"development","baseURL":"/","locationType":"auto","EmberENV":{"FEATURES":{}},"APP":{"LOG_ACTIVE_GENERATION":true,"LOG_TRANSITIONS":true,"LOG_TRANSITIONS_INTERNAL":true,"LOG_VIEW_LOOKUPS":true,"name":"dekini-web","version":"0.0.0+4637cb09"},"exportApplicationGlobal":true}

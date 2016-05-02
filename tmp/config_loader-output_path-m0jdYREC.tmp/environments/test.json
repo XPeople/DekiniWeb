@@ -1,0 +1,1 @@
+{"modulePrefix":"dekini-web","environment":"test","baseURL":"/","locationType":"none","EmberENV":{"FEATURES":{}},"APP":{"LOG_ACTIVE_GENERATION":false,"LOG_VIEW_LOOKUPS":false,"rootElement":"#ember-testing","name":"dekini-web","version":"0.0.0+4637cb09"},"exportApplicationGlobal":true}

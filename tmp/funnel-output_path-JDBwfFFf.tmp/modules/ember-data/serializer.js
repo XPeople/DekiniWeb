@@ -1,0 +1,1 @@
+/home/isaac/EmberProjects/DekiniWeb/node_modules/ember-data/addon/serializer.js
